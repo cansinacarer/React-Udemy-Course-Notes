@@ -6,7 +6,7 @@ This repo contains the code & notes I used while following the Udemy course [Rea
 
 -   [x] Modern JavaScript with arrow functions, spread & rest operators, and more (section 2).
 -   [x] React components, props (section 3),
--   [ ] React state and events,
+-   [ ] React state and events (section 4),
 
 ## Steps to Run:
 
