@@ -2,7 +2,13 @@
 
 This repo contains the code & notes I used while following the Udemy course [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
 
-Steps to run:
+## Subjects I'm Learning:
+
+-   [x] Modern JavaScript with arrow functions, spread & rest operators, and more (section 2).
+-   [x] React components, props (section 3),
+-   [ ] React state and events,
+
+## Steps to Run:
 
 1. Checkout the branch for the relevant course section,
 2. Install modules with `npm install`,
