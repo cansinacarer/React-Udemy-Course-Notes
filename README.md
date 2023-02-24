@@ -14,4 +14,6 @@ This repo contains the code & notes I used while following the Udemy course [Rea
 2. Install modules with `npm install`,
 3. Start the development server with `npm start`.
 
+## External Links
+
 [Course repo](https://github.com/academind/react-complete-guide-code/tree/03-react-basics-working-with-components/code/11-finished/src)
