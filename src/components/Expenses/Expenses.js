@@ -4,7 +4,7 @@ import "./Expenses.css";
 
 export default function Expenses(props) {
 	return (
-		<Card>
+		<Card className="expenses">
 			<ExpenseItem
 				title={props.items[0].title}
 				amount={props.items[0].amount}
